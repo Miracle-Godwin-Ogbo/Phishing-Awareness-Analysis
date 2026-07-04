@@ -81,7 +81,7 @@ The complete phishing analysis is available in the attached PDF report.
 
 **Report File**
 
-📄 [Phishing_Awareness_Analysis_Report.pdf](Phishing_Awareness_Analysis_Report.pdf)
+📄 [full Report pdf](Phishing_Awareness_Analysis_Report.pdf)
 
 
 ---
