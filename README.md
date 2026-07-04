@@ -24,6 +24,15 @@ This project demonstrates the analysis of phishing emails by identifying phishin
 
 This project analyzes **two mock phishing emails** created for educational purposes.
 
+---
+
+# 💻 Technologies Used
+
+* Microsoft Word
+* PDF
+* GitHub
+---
+
 ## 📧 Sample 1 – Best Intern Award Scam
 
 The first email attempts to deceive the recipient by claiming they have won the **DecodeLabs Best Intern Award**, including a **₦10,000,000 cash prize**, free visa processing to Canada, and other attractive rewards.
@@ -76,13 +85,6 @@ The complete phishing analysis is available in the attached PDF report.
 Phishing_Awareness_Analysis_Report.pdf
 ```
 
----
-
-# 💻 Technologies Used
-
-* Microsoft Word
-* PDF
-* GitHub
 
 ---
 
